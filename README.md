@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m @bablu-yadav-01
 
-<!--
-**bablu-yadav-01/bablu-yadav-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I’m looking for **Data Analyst / Data Science** opportunity with hands-on experience in **Supply Chain & E-Commerce Analytics**, passionate about turning raw data into actionable business insights.
 
-Here are some ideas to get you started:
+👀 I’m interested in **Data Analysis, Data Science, Business Intelligence, and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and improving my skills in **advanced SQL, Python, Machine Learning, and Real-World analytics projects**.
+
+💡 I enjoy working on **data-driven projects** involving **Dashboards, KPI analysis, and Predictive modeling**.
+
+💞️ I’m open to collaborating on **Data Analytics / Data Science projects** and contributing to real-world problem-solving.
+
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/bablu-yadav
+
+🚀 Tech Stack: SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Machine Learning
