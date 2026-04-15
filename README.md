@@ -10,6 +10,6 @@
 
 💞️ I’m open to collaborating on **Data Analytics / Data Science projects** and contributing to real-world problem-solving.
 
-📫 Reach me on LinkedIn: https://www.linkedin.com/in/bablu-yadav
+📫 Reach me on LinkedIn: www.linkedin.com/in/bablu-yadav-421017283
 
 🚀 Tech Stack: SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Machine Learning
